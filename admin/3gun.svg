@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="155.71616mm"
-   height="123.51153mm"
-   viewBox="0 0 155.71616 123.51153"
+   width="93.444588mm"
+   height="110.96655mm"
+   viewBox="0 0 93.44459 110.96655"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (unknown)"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="3gun.svg">
   <defs
      id="defs2" />
@@ -26,13 +26,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="326.55962"
-     inkscape:cy="218.2379"
+     inkscape:cx="-79.513268"
+     inkscape:cy="268.32447"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="725"
+     inkscape:window-height="716"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,7 +52,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-45.829613,-100.83037)">
+     transform="translate(-108.10118,-113.37534)">
     <circle
        r="17.672924"
        cy="131.04826"
@@ -64,11 +64,11 @@
        id="rect815"
        width="30.049107"
        height="28.348215"
-       x="78.052071"
-       y="100.83037" />
+       x="-24.846699"
+       y="108.84845" />
     <rect
-       y="129.17857"
-       x="78.052071"
+       y="137.19667"
+       x="-24.846699"
        height="28.348215"
        width="30.049107"
        id="rect836"
@@ -83,8 +83,8 @@
     <circle
        style="opacity:1;fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.61814696;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="path840"
-       cx="55.829613"
-       cy="179.1823"
+       cx="-47.069157"
+       cy="187.20039"
        r="10" />
     <text
        xml:space="preserve"
@@ -121,21 +121,21 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Microscan A';-inkscape-font-specification:'Microscan A';stroke-width:0.26458332">3gun</tspan></text>
     <circle
        r="10"
-       cy="211.68823"
-       cx="56.585567"
+       cy="219.70633"
+       cx="-46.313202"
        id="circle854"
        style="opacity:1;fill:#ff2e2e;fill-opacity:1;stroke:none;stroke-width:0.61814702;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     <circle
        style="opacity:1;fill:#ff2e2e;fill-opacity:1;stroke:none;stroke-width:0.61814702;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="circle856"
-       cx="107.54485"
-       cy="177.88808"
+       cx="4.6460853"
+       cy="185.90617"
        r="10" />
     <circle
        style="opacity:1;fill:#5c2e2e;fill-opacity:1;stroke:none;stroke-width:0.61814702;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="circle858"
-       cx="80.105286"
-       cy="178.01227"
+       cx="-22.793484"
+       cy="186.03036"
        r="10" />
     <path
        inkscape:connector-curvature="0"
